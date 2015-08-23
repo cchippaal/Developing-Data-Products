@@ -14,4 +14,4 @@ App application shows an interactive session for to plot with ggplot2 package wh
 3. Observe how the plot changes graph
 
 # Code Access
-The server.R, ui.R and other related files are available at this public github repository: https://github.com/welcheb/DevelopingDataProductsProject
+The server.R, ui.R and other related files are available at this public github repository: https://github.com/cchippaal/Developing-Data-Products
