@@ -1,0 +1,9 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId:
+        https://api.rpubs.com/api/v1/document/104485/db5ec2db62724c209197bae1dcaf38f5
+bundleId:
+        https://api.rpubs.com/api/v1/document/104485/db5ec2db62724c209197bae1dcaf38f5
+url: http://rpubs.com/cchippala/104485
+when: 1440356359.35541
