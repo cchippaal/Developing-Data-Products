@@ -1,0 +1,17 @@
+---
+title: "Information for the ggplot2 demo ShinyApp"
+output: html_document
+---
+
+# Shiny App Overview
+
+App application shows an interactive session for to plot with ggplot2 package which is available in R. This application uses the mpg fuel economy data from 1999 and 2008 for 38 popular models of car.  This application provides 5 selection widgets to select the geometry type of the plot, the X variable, the Y variable, the Color variable, and the facet_wrap variable.
+
+# Usage
+
+1. Modify the select in any of the 5 Choise widgets
+2. review the updated ggplot command shown beneath the plot and it can be copy/paste into R code.
+3. Observe how the plot changes graph
+
+# Code Access
+The server.R, ui.R and other related files are available at this public github repository: https://github.com/welcheb/DevelopingDataProductsProject
